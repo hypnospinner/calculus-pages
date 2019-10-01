@@ -11,6 +11,8 @@
 - [Метрические пространства](https://hypnospinner.github.io/calculus-pages/1)
 - [Пространство $R^n$](https://hypnospinner.github.io/calculus-pages/2) 
 - [Последовательности в пространстве $R^n$. Теорема Больцано-Вейерштрасса](https://hypnospinner.github.io/calculus-pages/3)
+- [Функции от нескольких переменных. Предел функции по Гейне и по Коши. Повторные пределы.
+  Свойства пределов](https://hypnospinner.github.io/calculus-pages/4)
 - Дебильник (в процессе)
 
 ---
