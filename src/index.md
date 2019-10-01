@@ -8,11 +8,9 @@
 
 #### Навигация по курсу
 
-- [Лекция 1](https://hypnospinner.github.io/calculus-pages/lecture-1)
-- Лекция 2 (в процессе)
-- Лекция 3 (в процессе)
-- Лекция 4 (в процессе)
-- …
+- [Метрические пространства](https://hypnospinner.github.io/calculus-pages/1)
+- [Пространство $R^n$](https://hypnospinner.github.io/calculus-pages/2) 
+- [Последовательности в пространстве $R^n$. Теорема Больцано-Вейерштрасса](https://hypnospinner.github.io/calculus-pages/3)
 - Дебильник (в процессе)
 
 ---
