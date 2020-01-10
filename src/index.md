@@ -33,9 +33,12 @@
 1. [Экстремумы функции. Необходимое и достаточное условия экстремума функции](https://hypnospinner.github.io/calculus-pages/20)
 1. [Градиентный метод поиска экстремума. Метод случайного спуска](https://hypnospinner.github.io/calculus-pages/21)
 1. [Теорема о неявной функции от одной или нескольких переменных](https://hypnospinner.github.io/calculus-pages/22)
-2. [Функциональные матрицы и определители](https://hypnospinner.github.io/calculus-pages/23)
-3. [Независимость функций](https://hypnospinner.github.io/calculus-pages/24)
-4. [Теорема о системе неявных функций](https://hypnospinner.github.io/calculus-pages/25)
+1. [Функциональные матрицы и определители](https://hypnospinner.github.io/calculus-pages/23)
+1. [Независимость функций](https://hypnospinner.github.io/calculus-pages/24)
+1. [Теорема о системе неявных функций](https://hypnospinner.github.io/calculus-pages/25)
+2. [Дифференцирование неявных функций](https://hypnospinner.github.io/calculus-pages/26)
+3. [Условный экстремум. Метод исключения переменных](https://hypnospinner.github.io/calculus-pages/27)
+4. [Условный экстремум. Метод множителей Лагранжа](https://hypnospinner.github.io/calculus-pages/28)
 
 ---
 
