@@ -36,9 +36,15 @@
 1. [Функциональные матрицы и определители](https://hypnospinner.github.io/calculus-pages/23)
 1. [Независимость функций](https://hypnospinner.github.io/calculus-pages/24)
 1. [Теорема о системе неявных функций](https://hypnospinner.github.io/calculus-pages/25)
-2. [Дифференцирование неявных функций](https://hypnospinner.github.io/calculus-pages/26)
-3. [Условный экстремум. Метод исключения переменных](https://hypnospinner.github.io/calculus-pages/27)
-4. [Условный экстремум. Метод множителей Лагранжа](https://hypnospinner.github.io/calculus-pages/28)
+1. [Дифференцирование неявных функций](https://hypnospinner.github.io/calculus-pages/26)
+1. [Условный экстремум. Метод исключения переменных](https://hypnospinner.github.io/calculus-pages/27)
+1. [Условный экстремум. Метод множителей Лагранжа](https://hypnospinner.github.io/calculus-pages/28)
+1. [Геометрическое приложение производных. Касательная и нормали в трехмерном пространстве](https://hypnospinner.github.io/calculus-pages/29)
+1. [Двойной интеграл. Свойства](https://hypnospinner.github.io/calculus-pages/30)
+1. [Двойной интеграл. Суммы Дарбу. Критерий сходимости двойного интеграла. Геометрический смысл](https://hypnospinner.github.io/calculus-pages/31)
+1. [Сведение двойного интеграла к повторному](https://hypnospinner.github.io/calculus-pages/32)
+1. [Криволинейный интеграл первого рода. Сведение к риманову](https://hypnospinner.github.io/calculus-pages/33)
+1. [Криволинейный интеграл второго рода. Физический смысл. Сведение к риманову](https://hypnospinner.github.io/calculus-pages/34)
 
 ---
 
