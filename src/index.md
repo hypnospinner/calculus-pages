@@ -45,6 +45,17 @@
 1. [Сведение двойного интеграла к повторному](https://hypnospinner.github.io/calculus-pages/32)
 1. [Криволинейный интеграл первого рода. Сведение к риманову](https://hypnospinner.github.io/calculus-pages/33)
 1. [Криволинейный интеграл второго рода. Физический смысл. Сведение к риманову](https://hypnospinner.github.io/calculus-pages/34)
+1. [Формула Грина](https://hypnospinner.github.io/calculus-pages/35)
+1. [Вычисление площадей с помощью двойных и криволинейных интегралов](https://hypnospinner.github.io/calculus-pages/36)
+1. [Теорема о равенстве нулю криволинейного интеграла второго рода по произвольному контуру](https://hypnospinner.github.io/calculus-pages/37)
+1. [Условие независимости криволинейного интеграла от пусти интегрирования](https://hypnospinner.github.io/calculus-pages/38)
+1. [Условие того, что подынтегральное выражение в криволинейном интеграле является полным дифференциалом некоторой функции](https://hypnospinner.github.io/calculus-pages/39)
+1. [Вычисление криволинейного интеграла второго рода, в случае когда подинтегральное выражение есть полный дифференциал. Дифференциальное уравнение в полных дифференциалах](https://hypnospinner.github.io/calculus-pages/40)
+1. [Условие потенциальности для криволинейного интеграла по пространственному контуру. Случай неодносвязной области](https://hypnospinner.github.io/calculus-pages/41)
+1. [Выражение площади в криволинейных координатах](https://hypnospinner.github.io/calculus-pages/42)
+1. [Замена переменных в двойном интеграле](https://hypnospinner.github.io/calculus-pages/43)
+1. [Площадь криволинейной поверхности](https://hypnospinner.github.io/calculus-pages/44)
+1. [Поверхностный интеграл 1 рода. Сведение к риманову](https://hypnospinner.github.io/calculus-pages/45)
 
 ---
 
